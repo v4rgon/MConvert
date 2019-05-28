@@ -3,4 +3,4 @@ MConvert - это мобильное приложение по поиску ба
 
 ## Requirements: [Ru](https://github.com/v4rgon/MConvert/blob/master/Documentation/Requirements/SRS.md)
 
-## UML Diagrams: [Ru]
+## UML Diagrams: [Ru](https://github.com/v4rgon/MConvert/blob/master/Documentation/Diagrams/UML_Diagrams.md)
