@@ -3,14 +3,14 @@
 ### Вывод курса валют
 ---
 
-![1](../Activity/ExchangeRates.png)
+![1](../Activity/ExchangeRates.jpg)
 
 ### Конвертер валют
 ---
 
 ![2](../Activity/Calculator.png)
 
-### Вывод "лучшего" курса и банка 
+### Вывод "лучшего" курса и банка
 ---
 
 ![3](../Activity/BestExchangeRate.png)
@@ -19,4 +19,3 @@
 ---
 
 ![4](../Activity/WorldExchange.png)
-
